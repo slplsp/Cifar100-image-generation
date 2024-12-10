@@ -10,6 +10,6 @@ Additionally, CIFAR-100 classes are grouped into:
 - **Fine classes**: 100 specific categories
 
 best training results:
-FID Score: 15.8565
-Inception Score:6.0625 +0.7847
-Intra-FID:51.2626
+-FID Score: 15.8565
+-Inception Score:6.0625 +0.7847
+-Intra-FID:51.2626
