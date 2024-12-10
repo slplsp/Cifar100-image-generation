@@ -8,3 +8,8 @@ The **CIFAR-100** dataset contains 60,000 32x32 color images categorized into 10
 Additionally, CIFAR-100 classes are grouped into:
 - **Superclasses**: 20 broader categories
 - **Fine classes**: 100 specific categories
+
+best training results:
+FID Score: 15.8565
+Inception Score:6.0625 +0.7847
+Intra-FID:51.2626
