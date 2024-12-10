@@ -1,4 +1,4 @@
-#Welcome to the Elema team's codebase. This codebase is about CIFAR100 image Generation
+Welcome to the Elema team's codebase. This codebase is about CIFAR100 image Generation
 
 # CIFAR-100 Image Generation
 
