@@ -42,3 +42,39 @@ torch.manual_seed(seed)
 if torch.cuda.is_available():
     torch.cuda.manual_seed(seed)
     torch.cuda.manual_seed_all(seed)
+
+Running the Code
+The codebase includes several Jupyter notebooks to help you reproduce our results and generate images. Below are the steps to run each notebook:
+
+1. Reproduce Model Files
+Notebook: run.ipynb
+
+This notebook trains the model and generates the necessary model files.
+
+Steps:
+
+Open run.ipynb in Jupyter Notebook or Jupyter Lab.
+Run all the cells sequentially.
+Upon completion, the trained model files will be saved in the designated directory.
+2. Evaluate the Model
+Notebook: Three indicator tests.ipynb
+
+This notebook calculates the FID, Intra-FID, and Inception Score (IS) values to reproduce our evaluation metrics.
+
+Steps:
+
+Ensure that the trained model files from run.ipynb are available.
+Open Three indicator tests.ipynb in Jupyter Notebook or Jupyter Lab.
+Run all the cells sequentially.
+The FID, Intra-FID, and IS values will be displayed as output.
+3. Generate Images
+Notebook: Image generation.ipynb
+
+This notebook generates new images using the trained model.
+
+Steps:
+
+Ensure that the trained model files from run.ipynb are available.
+Open Image generation.ipynb in Jupyter Notebook or Jupyter Lab.
+Run all the cells sequentially.
+Generated images will be saved in the specified output directory.
