@@ -94,7 +94,9 @@ pip install -r requirements.txt
 
 ## Contact
 
-For any questions or issues, please contact the Elema team at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, feel free to reach out via email:  
+- suilinpeng15@gmail.com
+- sl695969@outlook.com
 ```
 
 Steps:
