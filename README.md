@@ -1,4 +1,3 @@
-```markdown
 # CIFAR-100 Image Generation
 
 Welcome to the Elema team's codebase. This codebase is focused on CIFAR-100 image generation.
