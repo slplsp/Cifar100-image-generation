@@ -42,8 +42,8 @@ torch.manual_seed(seed)
 if torch.cuda.is_available():
     torch.cuda.manual_seed(seed)
     torch.cuda.manual_seed_all(seed)
-
-Running the Code
+```
+##Running the Code
 The codebase includes several Jupyter notebooks to help you reproduce our results and generate images. Below are the steps to run each notebook:
 
 1. Reproduce Model Files
