@@ -21,6 +21,9 @@ To ensure reproducibility of our results, we set the random seed to **42** durin
 - **Inception Score**: 6.0625 ± 0.7847
 - **Intra-FID**: 51.2626
 
+  ![image](https://github.com/user-attachments/assets/6a254e90-1c6d-403d-87b2-72902f4d1b00)
+
+
 *All the above results were obtained with the random seed set to 42.*
 
 ## Reproducing the Results
