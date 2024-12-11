@@ -99,9 +99,3 @@ If you have any questions, feel free to reach out via email:
 - sl695969@outlook.com
 ```
 
-Steps:
-
-Ensure that the trained model files from run.ipynb are available.
-Open Image generation.ipynb in Jupyter Notebook or Jupyter Lab.
-Run all the cells sequentially.
-Generated images will be saved in the specified output directory.
