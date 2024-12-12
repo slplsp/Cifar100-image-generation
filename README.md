@@ -14,6 +14,12 @@ Additionally, CIFAR-100 classes are grouped into:
 - **Fine classes**: 100 specific categories
 
 ## Training Configuration
+Ensure your environment has the following package versions before running the notebooks:
+
+torch: 2.1.2+cu121
+torchvision: 0.16.2+cu121
+numpy: 1.26.4
+scipy: 1.14.1
 
 To ensure reproducibility of our results, we set the random seed to **42** during the training process.
 
