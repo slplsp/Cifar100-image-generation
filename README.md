@@ -30,7 +30,8 @@ To ensure reproducibility of our results, we set the random seed to **42** durin
 
 - **FID Score**: 15.8565  
 - **Inception Score**: 6.0625 ± 0.7847  
-- **Intra-FID**: 51.2626  
+- **Intra-FID**: 51.2626
+- **Training time**:4 hours, 36 minutes, 36 seconds (single RTX3090 operation)
 
 ![image](https://github.com/user-attachments/assets/6a254e90-1c6d-403d-87b2-72902f4d1b00)
 
